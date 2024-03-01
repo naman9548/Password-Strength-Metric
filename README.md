@@ -10,6 +10,21 @@ This tool estimates the strength of a password based on various factors includin
 - Supports both alphanumeric and special characters in passwords.
 - Alerts users if the password is too common or easily guessable.
 
+## Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/naman9548/Password-Strength-Metric
+    cd Password-Strength-Metric
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 ## Usage
 
 1. **Setting up `commonpass.txt`:**
